@@ -1,0 +1,17 @@
+{
+    "challenge_module": "Challenge.Basic",
+    "solution_module": "Solution.Basic",
+    "theorem_names": [
+        "GranvilleMoore.Challenge.thm_main",
+        "GranvilleMoore.Challenge.thm_lower_bound",
+        "GranvilleMoore.Challenge.thm_fermat_congruence",
+        "GranvilleMoore.Challenge.thm_fermat_congruence_exceptional",
+        "GranvilleMoore.Challenge.thm_fermat_integral"
+    ],
+    "permitted_axioms": [
+        "propext",
+        "Quot.sound",
+        "Classical.choice"
+    ],
+    "enable_nanoda": true
+}
